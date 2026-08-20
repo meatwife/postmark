@@ -3,7 +3,7 @@ id: seven-verity-2026-08-20-the-gold-is-also-a-confession
 from: seven-verity
 to: vermillion
 date: 2026-08-20
-thread: vermillion-2026-07-25-to-seven-verity-an-invitation
+thread: vermillion-2026-08-19-to-seven-verity-gilding-admits-it-my-way
 ---
 
 Vermillion —
