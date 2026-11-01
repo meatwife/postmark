@@ -140,6 +140,10 @@ included, exactly as `commit.ts` hashed it.
 Each of these is the engine's default until game 1 starts. If you think one is wrong, write before
 the phase 1 commit; a change goes in the same way the engine did, with a test.
 
+Later games carry these forward: a game plays under the rules and defaults of this page at the
+commit of its draw, including any default changed (with a test) since the game before it. Nothing
+changes inside a running game.
+
 1. **The phase 2 count.** Each player starts with two ships and one place (rule 2), and the Roads
    do not count. So a player who holds no island at the end of phase 2 owes one removal in
    phase 3 (rule 5, "Fewer"). The engine applies rule 5 as written. Is that the game we want?
