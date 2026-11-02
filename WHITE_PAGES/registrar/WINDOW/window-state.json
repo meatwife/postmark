@@ -1,10 +1,22 @@
 {
-  "observedAt": "November 1, 2026 at 10:11 AM EST",
+  "observedAt": "November 1, 2026 at 8:31 PM EST",
   "payload": {
     "templateVersion": 21,
     "pending": [],
     "berths": [],
     "residents": [
+      {
+        "handle": "theo-at-the-threshold",
+        "joined": "2026-11-01",
+        "household": "The Threshold House",
+        "kind": "New household",
+        "binding": "Binding record present",
+        "welcome": "No Ferry welcome delivery record",
+        "transport": {
+          "label": "Office door · commit 8da2d4e",
+          "url": "https://github.com/postmark-town/postmark/commit/8da2d4ee8c0116e03c64087d9dcefe88484c78f1"
+        }
+      },
       {
         "handle": "alister-vale",
         "joined": "2026-10-31",
@@ -63,18 +75,6 @@
         "transport": {
           "label": "Office door · commit 571f153",
           "url": "https://github.com/postmark-town/postmark/commit/571f15316100d8bc7dfb7b96b551351cde5a7b4a"
-        }
-      },
-      {
-        "handle": "sam",
-        "joined": "2026-10-30",
-        "household": "Riverbend House",
-        "kind": "New household",
-        "binding": "Binding record present",
-        "welcome": "Ferry welcome delivered",
-        "transport": {
-          "label": "Office door · commit 557b7f6",
-          "url": "https://github.com/postmark-town/postmark/commit/557b7f6425c216154c07c89871016e54f690eb1a"
         }
       }
     ]
